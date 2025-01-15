@@ -13,6 +13,7 @@ const server = http.createServer((req,res)=>{
 
     console.log("Hello");
     console.log("Ok! G");
+    console.log("Thik G!");
 
 });
 
